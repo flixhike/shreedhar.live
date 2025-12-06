@@ -1,0 +1,54 @@
+{
+  "name": "Shreedhar",
+  "location": "Bangalore",
+  "title": "UI/UX Designer II",
+  "experience": "14 years of experience",
+  "avatar": "/uploads/image-1764487120090-926989078.png",
+  "skills": [
+    "UX Research",
+    "Information Architecture",
+    "Interaction Design",
+    "UI / UX Design for Mobile Apps",
+    "Responsive Web Design",
+    "Individual Contributor",
+    "HTML / CSS",
+    "User Testing",
+    "Design Team Leadership",
+    "Agile Methodologies"
+  ],
+  "tools": [
+    {
+      "name": "Figma",
+      "icon": "/images/figma-icon.png"
+    },
+    {
+      "name": "Miro",
+      "icon": "/images/miro-icon.png"
+    },
+    {
+      "name": "Jitter",
+      "icon": "/images/jitter-icon.png"
+    },
+    {
+      "name": "Adobe Creative Cloud",
+      "icon": "/images/adobe-icon.png"
+    },
+    {
+      "name": "MS Office",
+      "icon": "/images/msoffice-icon.png"
+    }
+  ],
+  "languages": [
+    "English",
+    "Telugu",
+    "Hindi",
+    "Kannada",
+    "Tamil"
+  ],
+  "phone": "9986256789",
+  "email": "ssri46@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/korampallisridhar/",
+  "behance": "https://www.behance.net/sridhardesigns",
+  "primaryColor": "#FE275C",
+  "secondaryColor": "#0165b2"
+}

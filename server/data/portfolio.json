@@ -1,0 +1,222 @@
+[
+  {
+    "id": "2",
+    "title": "Story boarding",
+    "category": "Case Study",
+    "subtitle": "Click on below image for case study",
+    "image": "/uploads/image-1764488028523-263878864.svg",
+    "description": "Comprehensive case study on user story boarding and journey mapping",
+    "tags": [
+      "Case Study",
+      "Story Boarding",
+      "UX"
+    ],
+    "link": "https://www.behance.net/gallery/108940719/Philips-Remote-Monitoring",
+    "year": "2023",
+    "published": true,
+    "createdAt": "2024-01-02T00:00:00.000Z",
+    "updatedAt": "2025-11-30T11:30:27.101Z",
+    "order": 0
+  },
+  {
+    "id": "3",
+    "title": "Philips Remote Monitoring",
+    "category": "Prototype",
+    "subtitle": "Click on below image for prototype",
+    "image": "/images/portfolio-prototype-7dff5b.png",
+    "description": "Interactive prototype for Philips remote patient monitoring system",
+    "tags": [
+      "Prototype",
+      "Healthcare",
+      "Monitoring"
+    ],
+    "link": "https://www.figma.com/proto/PzfhomyXFbMT1jNUAUr55m/Philips-Health-watch?page-id=0%3A1&type=design&node-id=1309-341&viewport=2607%2C557%2C0.5&t=YstE9JBa9FweX5hO-1&scaling=scale-down&starting-point-node-id=1309%3A341",
+    "year": "2022",
+    "published": true,
+    "createdAt": "2024-01-03T00:00:00.000Z",
+    "updatedAt": "2025-11-30T07:08:28.343Z",
+    "order": 0
+  },
+  {
+    "id": "4",
+    "title": "Mobile App Design 1",
+    "category": "UI Design",
+    "subtitle": "Mobile Application",
+    "image": "/images/mobile-app-1.svg",
+    "description": "Modern mobile application interface design",
+    "tags": [
+      "Mobile",
+      "UI Design",
+      "App"
+    ],
+    "link": "https://www.figma.com/proto/uyjT085SzVFLF8AffaDpWE/Demo?page-id=184%3A2947&type=design&node-id=38-190&viewport=1667%2C311%2C0.5&t=03vxF3UYG7jRXr31-1&scaling=min-zoom&starting-point-node-id=38%3A190&show-proto-sidebar=1",
+    "year": "2023",
+    "published": true,
+    "createdAt": "2024-01-04T00:00:00.000Z",
+    "updatedAt": "2025-11-30T11:37:09.942Z",
+    "order": 2
+  },
+  {
+    "id": "6",
+    "title": "Mobile App Design 3",
+    "category": "UI Design",
+    "subtitle": "Mobile Application",
+    "image": "/images/mobile-app-3.svg",
+    "description": "Mobile application design with intuitive user experience",
+    "tags": [
+      "Mobile",
+      "UI Design",
+      "App"
+    ],
+    "link": "https://www.figma.com/proto/7i2KFWJFNa5vMxloXPzIoa/home?page-id=0%3A1&type=design&node-id=557-4644&viewport=464%2C643%2C1&t=WsGkftiTIzwqx7tP-1&scaling=scale-down&starting-point-node-id=1%3A19",
+    "year": "2023",
+    "published": true,
+    "createdAt": "2024-01-06T00:00:00.000Z",
+    "updatedAt": "2025-11-30T11:37:09.942Z",
+    "order": 0
+  },
+  {
+    "id": "7",
+    "title": "Web Portal 1",
+    "category": "UI Design",
+    "subtitle": "Web Portal",
+    "image": "/images/web-portal-1.svg",
+    "description": "Comprehensive web portal design for enterprise applications",
+    "tags": [
+      "Web",
+      "Portal",
+      "Dashboard"
+    ],
+    "link": "https://www.figma.com/proto/wAO3tO1zRQCR2Ppf5xOWQe/Self-Dasboard?page-id=0%3A1&type=design&node-id=80-241&viewport=1809%2C533%2C0.25&t=WwUmDDnSkkPYrGew-1&scaling=min-zoom&starting-point-node-id=80%3A241",
+    "year": "2022",
+    "published": true,
+    "createdAt": "2024-01-07T00:00:00.000Z",
+    "updatedAt": "2025-11-30T11:37:08.013Z",
+    "order": 4
+  },
+  {
+    "id": "8",
+    "title": "Web Landing Page 1",
+    "category": "UI Design",
+    "subtitle": "Web Landing Pages",
+    "image": "/images/web-portal-2.svg",
+    "description": "Modern web landing page with conversion-focused design",
+    "tags": [
+      "Web",
+      "Landing Page",
+      "Marketing"
+    ],
+    "link": "https://www.figma.com/proto/sXhlk0ufh19id9bZjyW82H/Poster-Designs?page-id=828%3A14&type=design&node-id=828-19&viewport=2103%2C669%2C0.5&t=iGOIPWFdzy87baX5-1&scaling=min-zoom&starting-point-node-id=828%3A19",
+    "year": "2022",
+    "published": true,
+    "createdAt": "2024-01-08T00:00:00.000Z",
+    "updatedAt": "2025-11-30T11:38:11.628Z",
+    "order": 1
+  },
+  {
+    "id": "9",
+    "title": "Logo Design Collection",
+    "category": "Poster",
+    "subtitle": "Poster Designs",
+    "image": "/images/logo-design.svg",
+    "description": "Collection of professional logo designs for various brands",
+    "tags": [
+      "Logo",
+      "Branding",
+      "Identity"
+    ],
+    "link": "",
+    "year": "2023",
+    "published": true,
+    "createdAt": "2024-01-09T00:00:00.000Z",
+    "order": 4,
+    "updatedAt": "2025-11-30T11:32:14.877Z"
+  },
+  {
+    "id": "10",
+    "title": "Product Logo Design Process",
+    "category": "UI Design",
+    "subtitle": "Logo Designs",
+    "image": "/images/poster-design.png",
+    "description": "Design process showcase for product logo development",
+    "tags": [
+      "Poster",
+      "Logo",
+      "Process"
+    ],
+    "link": "https://www.figma.com/proto/GejbMXLhKQ85FLQCRUqZIb/My-Designs?page-id=0%3A1&type=design&node-id=321-273&viewport=-3721%2C-494%2C0.25&t=Skn33DsmFtBwdoSk-1&scaling=min-zoom&starting-point-node-id=321%3A273",
+    "year": "2023",
+    "published": true,
+    "createdAt": "2024-01-10T00:00:00.000Z",
+    "updatedAt": "2025-11-30T11:39:17.448Z",
+    "order": 0
+  },
+  {
+    "id": "11",
+    "title": "Micro Animation 1",
+    "category": "Animation",
+    "subtitle": "Micro Animations",
+    "image": "/images/animation-1.svg",
+    "description": "Smooth micro animation for enhanced user experience",
+    "tags": [
+      "Animation",
+      "Micro Interaction",
+      "UX"
+    ],
+    "link": "https://www.figma.com/proto/do57lz5DYDqRYAXEvZwKfv/Animations?type=design&node-id=37-299&viewport=1473%2C474%2C1&t=nxboNfw4UYbrei7x-0&scaling=min-zoom&starting-point-node-id=37%3A105",
+    "year": "2023",
+    "published": true,
+    "createdAt": "2024-01-11T00:00:00.000Z",
+    "updatedAt": "2025-11-30T16:09:59.156Z",
+    "order": 1
+  },
+  {
+    "id": "12",
+    "title": "Micro Animation 2",
+    "category": "Animation",
+    "subtitle": "Micro Animations",
+    "image": "/images/animation-2.svg",
+    "description": "Interactive micro animations for modern interfaces",
+    "tags": [
+      "Animation",
+      "Micro Interaction",
+      "UX"
+    ],
+    "link": "https://www.figma.com/proto/do57lz5DYDqRYAXEvZwKfv/Animations?type=design&node-id=37-65&viewport=-2095%2C379%2C2&t=nxboNfw4UYbrei7x-0&scaling=min-zoom&starting-point-node-id=37%3A71",
+    "year": "2023",
+    "published": true,
+    "createdAt": "2024-01-12T00:00:00.000Z",
+    "updatedAt": "2025-11-30T16:09:53.634Z",
+    "order": 0
+  },
+  {
+    "id": "1764497610656",
+    "title": "Design system ",
+    "subtitle": "Click on below image for Step by step design guide",
+    "category": "Case Study",
+    "year": "",
+    "description": "",
+    "image": "/uploads/image-1764497590516-986325571.png",
+    "tags": [],
+    "link": "",
+    "published": true,
+    "createdAt": "2025-11-30T10:13:30.656Z",
+    "order": 1,
+    "updatedAt": "2025-11-30T11:30:27.101Z"
+  },
+  {
+    "id": "1764498756185",
+    "title": "Animation",
+    "subtitle": "Click on below image for case study",
+    "category": "Animation",
+    "year": "",
+    "description": "",
+    "image": "/uploads/image-1764498750633-991416165.png",
+    "tags": [],
+    "link": "",
+    "published": true,
+    "createdAt": "2025-11-30T10:32:36.185Z",
+    "order": 2,
+    "updatedAt": "2025-11-30T16:09:59.156Z"
+  }
+]

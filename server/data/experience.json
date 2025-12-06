@@ -1,0 +1,95 @@
+[
+  {
+    "id": "1",
+    "logo": "/images/hemocue-logo-6efa94.png",
+    "company": "Danaher - HemoCue",
+    "period": "Nov 2023 ( Current Employer)",
+    "title": "UI/UX Designer Lead",
+    "location": "",
+    "description": "Working as a UI / UX Designer Lead for HemoCue. \"HemoCue main business HemoCue is a company that specializes in point-of-care testing solutions, particularly in the field of hematology. They are known for developing and manufacturing devices for quick and convenient blood analysis, with a focus on providing accurate results for healthcare professionals. HemoCue's products are widely used in various healthcare settings, including hospitals, clinics, and laboratories, allowing for rapid testing and diagnosis of conditions such as anemia, diabetes, and infections. Their technologies often involve portable devices that can deliver results within minutes, enabling healthcare providers to make timely and informed decisions about patient care.\n\nRoles and Responsibilities : As part of our process, we worked with the product owner's sales team to gather the requirements. We also conducted user interviews, a crucial step that allowed us to understand the needs and preferences of our target users. The most exciting part was when we converted these insights into meaningful, complete wireframes, Prototyping for Mobile apps and Dashboard designs for hospitals and blood banks, bringing the project to life",
+    "projects": [
+      "Connectivity - Android",
+      "Connectivity - Dashboard",
+      "Improving the Design System"
+    ],
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "published": true,
+    "updatedAt": "2025-11-29T13:52:58.570Z"
+  },
+  {
+    "id": "2",
+    "logo": "/images/modivcare-logo-3ae57d.png",
+    "company": "Modivcare Lad's Private Limited",
+    "period": "February 2023 to August 2023",
+    "title": "Sr. UI/UX Designer II",
+    "location": "",
+    "description": "Working as a Sr. UI / UX Designer II for Modivcare Labs India, \"modivcare main business Facilitating non-emergency medical transportation, remote patient monitoring, meal delivery, and personal and home care to enable greater access to care, reduce costs and improve outcomes.\"\n\nRoles and Responsibilities\nConduct user research through interviews, surveys, and usability testing to understand user needs, behaviors, and pain points. Analyze research findings to inform design decisions and create user personas and journey maps.\n\nDevelop interactive prototypes that simulate user interactions and flows, allowing stakeholders and users to test and providing feedback. Design intuitive and efficient user interactions, including transitions, animations, and micro interactions.\nCollaborate closely with UI designers, developers, and other team members to ensure a seamless integration of design and functionality. Communicate design decisions and rationale effectively to cross-functional teams.",
+    "projects": [
+      "Member App - iOS/ Android",
+      "Tripcare - Web Portal",
+      "MSW - Web Portal",
+      "Micro animation - Jitter",
+      "Created - Design System"
+    ],
+    "createdAt": "2024-01-02T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "logo": "/images/philips-logo.png",
+    "company": "Philips India Ltd.",
+    "period": "April 2016 to January 2023",
+    "title": "Sr. UI/UX Lead",
+    "location": "",
+    "description": "Working as a lead designer for mobility projects, provided solutions for complex requirements with simple UX and supported cross platform teams with responsive and platform dependent UI/UX solutions (ex: android, iOS, hybrid). Worked with health care domain and sales domain in Philips.\n\nDesign skills: Implementing the RWD UI with HTML, CSS.\n\nProcesses: Designing the UX and UI aligning with DAP Process, Making sure the DAP approvals.\n\n\nProjects\nPhilips Health Band: The Philips Health Band mobile application is a non-medical mobile application that allows for Bluetooth acquisition of data from the Philips Health Band (PHB) medical device. The PHB mobile application makes the data transmitted from the Health Band available for viewing by the wearer in a study, including metrics related to physical activities, sleep, heart rate, respiratory rate, and allows the input of patient-reported outcomes.\n\nFlex Demo: Flex Demo application demonstrates how flex pressure relief technology senses patient exhaling and adapts/reduces pressure in making Positive Air Pressure (PAP) therapy more natural and comfortable. This application interacts with DreamStation devices in real time and user can see the trends for Pressure and Flow values to understand the PAP therapy. It was mainly developed to help the field staffs for demonstration purpose.\n\nVital Signs Camera: Today's consumers want more control over all aspects of their lives – their health, their well-being, and even their emotional responses. Philips VitalSigns Camera technology makes that possible in any situation.\nUsing a mobile video camera, application measures pulse and breathing rate with reliability and accuracy.\n\nPhilips IQon Spectral CT : Fundamentals is an interactive learning tool that introduces medical professionals to the basics of Spectral CT physics and various spectral imaging features. See how the IQon Spectral imaging can become part of your routine CT imaging by experiencing a few of the diagnostic benefits that radiologists, physicians, medical residents and radiology technologists may encounter in daily patient imaging.\n\nMCS Supplies : The App is intended to support the sales people (Philips/Distributors/Dealers/Channel Partners) by providing information on the MCS portfolio products in terms of product description, packaging details, products pictures and products' collaterals and thus empower the sales team in selling the huge portfolio of MCS.",
+    "projects": [],
+    "createdAt": "2024-01-03T00:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "logo": "/images/regalix-logo.png",
+    "company": "Regalix India Pvt. Ltd.",
+    "period": "October 2013 to October 2015",
+    "title": "UI Designer",
+    "location": "",
+    "description": "Lead the team of 5 designers for a Google project called WPP, Web Partner Projects. WPP was mainly on analysing the usability of small and medium level websites and improving the design for better usability. Also, worked on a product of Regalix which used to communicate and process the tag implementation between Google Managers and Regalix Techies and improved the whole UI and UX of it. I did the HTML prototyping too for the same product. I played the role of an individual contributor.",
+    "projects": [],
+    "createdAt": "2024-01-04T00:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "logo": "/images/kingfisher-logo.png",
+    "company": "Kingfisher Airlines India Ltd.",
+    "period": "July 2011 – September 2013",
+    "title": "Web Designer",
+    "location": "",
+    "description": "I started helping the IT team on their kingfisher internal design materials and collaterals in the initial level and then turned to a UI / Visual designer and worked on several projects. I got a nice opportunity to learn HTML/CSS from here and I could contribute on that part too on many projects. Flykingfisher.com, Kingfisherholidays.com and work with marketing people and travel portal websites.",
+    "projects": [],
+    "createdAt": "2024-01-05T00:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "logo": "/images/canvera-logo.png",
+    "company": "Canvera Pvt. Ltd.",
+    "period": "January 2010 – June 2011",
+    "title": "Graphic Designer",
+    "location": "",
+    "description": "After my Multimedia courses I joined as a graphic designer in Canvera is digital album printing company I have worked on - IPL match photo-book WIDE ANGLE (Anil Kimble's Personal Photography photo-book) · Film Actor's Wedding Photo-books · Delhi Airport Photo-book.\n\nE2E graphical web designing · Responsible for design & development of high-resolution images, creative logo, photography portfolios, event and marketing brochures, personalized calendars, fashion portfolio brochures etc…· Team coordinator for entire web design activity.",
+    "projects": [],
+    "createdAt": "2024-01-06T00:00:00.000Z"
+  },
+  {
+    "id": "1764404300314",
+    "company": "Sridhar",
+    "title": "UI/UX designer",
+    "period": "Jan 2025 to Till",
+    "location": "Bangalore",
+    "description": "Working as a UI / UX Designer Lead for HemoCue. \"HemoCue main business HemoCue is a company that specializes in point-of-care testing solutions, particularly in the field of hematology. They are known for developing and manufacturing devices for quick and convenient blood analysis, with a focus on providing accurate results for healthcare professionals. HemoCue's products are widely used in various healthcare settings, including hospitals, clinics, and laboratories, allowing for rapid testing and diagnosis of conditions such as anemia, diabetes, and infections. Their technologies often involve portable devices that can deliver results within minutes, enabling healthcare providers to make timely and informed decisions about patient care.\n\nRoles and Responsibilities : As part of our process, we worked with the product owner's sales team to gather the requirements. We also conducted user interviews, a crucial step that allowed us to understand the needs and preferences of our target users. The most exciting part was when we converted these insights into meaningful, complete wireframes, Prototyping for Mobile apps and Dashboard designs for hospitals and blood banks, bringing the project to life",
+    "projects": [
+      "Hello"
+    ],
+    "logo": "/uploads/image-1764404276870-900546427.webp",
+    "createdAt": "2025-11-29T08:18:20.314Z",
+    "updatedAt": "2025-11-29T14:45:45.977Z",
+    "published": false
+  }
+]

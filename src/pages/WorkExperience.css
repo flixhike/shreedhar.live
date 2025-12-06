@@ -1,0 +1,245 @@
+.work-experience {
+  padding: 0 0 40px 0;
+  background: #FFFFFF;
+}
+
+.experience-content {
+  max-width: 856px;
+  padding: 34px 0;
+}
+
+.experience-item {
+  display: flex;
+  gap: 45px;
+  padding: 0 75px 0 24px;
+  margin-bottom: 50px;
+}
+
+.experience-logo {
+  flex-shrink: 0;
+  width: 99px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.experience-logo img {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.experience-details {
+  flex: 1;
+}
+
+.experience-company {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #828282;
+  margin-bottom: 8px;
+}
+
+.experience-title {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  color: #333333;
+  margin-bottom: 8px;
+}
+
+.experience-period {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #828282;
+  margin-bottom: 21px;
+}
+
+.experience-description {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #4F4F4F;
+  white-space: pre-line;
+  margin-bottom: 20px;
+}
+
+.experience-projects {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 20px;
+}
+
+.project-tag {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 23px;
+  color: #0387C3;
+  white-space: nowrap;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+.experience-divider {
+  height: 1px;
+  background: #E0E0E0;
+  margin: 50px 0;
+}
+
+.education-section {
+  background: #F8F9FA;
+  padding: 30px 0 40px 0;
+  margin-top: 30px;
+}
+
+.education-card {
+  background: transparent;
+  padding: 0 75px 0 24px;
+  border-radius: 0;
+  margin: 0;
+  border: none;
+  box-shadow: none;
+}
+
+.education-title {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  color: #333333;
+  margin-bottom: 20px;
+  padding: 0;
+  text-align: left;
+}
+
+.education-content {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  padding: 0;
+}
+
+.education-item {
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+}
+
+.education-logo {
+  flex-shrink: 0;
+  width: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.education-logo img {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.education-details {
+  flex: 1;
+}
+
+.education-institution {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #828282;
+  margin-bottom: 11px;
+}
+
+.education-degree {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  color: #333333;
+  margin-bottom: 11px;
+}
+
+.education-school {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #828282;
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+  .experience-item {
+    padding: 0 40px 0 24px;
+    gap: 30px;
+  }
+}
+
+@media (max-width: 768px) {
+  .work-experience {
+    padding: 0 0 30px 0;
+  }
+
+  .experience-content {
+    padding: 20px 0;
+  }
+
+  .experience-item {
+    flex-direction: column;
+    padding: 0 24px;
+    gap: 15px;
+    margin-bottom: 30px;
+  }
+
+  .experience-logo {
+    width: 80px;
+  }
+
+  .experience-description {
+    font-size: 13px;
+    line-height: 20px;
+  }
+
+  .experience-divider {
+    margin: 30px 24px;
+  }
+
+  .education-section {
+    padding: 0 0 20px 0;
+    margin-top: 15px;
+  }
+
+  .education-card {
+    padding: 20px 24px;
+    margin: 0 24px;
+    border-radius: 4px;
+  }
+
+  .education-title {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+
+  .education-content {
+    padding: 0;
+    gap: 20px;
+  }
+
+  .education-item {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .education-logo {
+    width: 60px;
+  }
+}
